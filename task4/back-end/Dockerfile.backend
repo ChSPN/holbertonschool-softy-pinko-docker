@@ -24,4 +24,4 @@ COPY ./api.py /app/api.py
 EXPOSE 5252
 
 # Command to run the Flask app
-CMD ["python3", "api.py"]
+CMD ["python3", "task4/back-end/api.py"]
